@@ -1,11 +1,11 @@
 x = float(input('x = '))
 
 if x > 0:
-    y = x ** 0.5    # "0.5" - корень из числа.
+    y = x ** 0.5    # "0.5" - root of number.
 else:
     y = x ** 2
 
-pass # Эта функция ничего не делает.
+pass # This function does nothing.
 
 print(y) 
 
