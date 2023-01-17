@@ -6,7 +6,7 @@ if 0 < x < 7:                                   # Checking for entry into the ra
     if y < 0:
         print("y is negative")
     else:
-        if t > 0:
+        if y > 0:
             print("y is positive")
         else:
             print("y = 0")

@@ -23,6 +23,3 @@ while True:
         print("Incorrect input")
 
     print()
-
-
-
