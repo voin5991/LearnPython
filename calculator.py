@@ -1,6 +1,6 @@
-x = float(input('First number: '))
-y = float(input('Second number: '))
-operation = input('Operation: ')
+x = float(input('Первое число: '))
+y = float(input('Второе число: '))
+operation = input('Операция: ')
 
 result = None
 
@@ -16,4 +16,4 @@ else:
     print('Unsupported operation')
 
 if result is not None:
-    print('Result', result)
+    print('Результат', result)
